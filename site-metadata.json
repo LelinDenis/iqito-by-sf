@@ -22,11 +22,11 @@
     "tagline": "Stars & Fishes, Marketing hi tech",
     "logo_img": "/images/iqito-1-.png",
     "has_social": true,
-    "content": "&copy; Stackbit. All rights reserved.",
+    "content": "&copy; Stars & Fishes 2019",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "text": "Contact us to build your next Progressive web app",
+        "url": "https://starsandfishes.com",
         "new_window": true
       }
     ],
